@@ -60,6 +60,9 @@ you can compile the `.hex` file on a virtualized OS and take the hex
 file to a physical host and upload it with `avrdude` without
 installing the full compiler toolchain.
 
+## CUSTOM LAYOUT
+![](https://lh3.googleusercontent.com/rj-ahF5ACInDxbGDEOFAGw2RkBlN8uUse607ocsKEtiSjIkrbMru3QraK27hP6oBNf6txCRQw7md5g6az0KbRg2dcPPJBAGy1lu1InNYBXHtAE71hnPqcf7KYssmvh7mpCfx-uOOYDww0wOxUd9eXqN4gofrV5hBpNCOCgAJaXgjzwF1vrjsw5IX5v3LiXeYl7Y4Qd-Jp-AzrBNhQFDf1FjwFBJANKQIHkMwBLhZNtkve5AkGB5IQLu4s4luClosbARzRW0jv-cdjca8DaLYaSjLl-wc0tz5Qfj1E1yJQL06Ev22-W5mU3Zmf-QJ2pFdIl4p0wQobETK8hc17Wl3BeqAChxppuCAvoUjsJGOX6eSgIzpWA8iRRpnbO5Y2nenSgjivYVYaAFoTrOx5acTJoikyZ5vLsydD53rHDZ6leu3oURXtzqdKlunud7Nsv693ikQZkpaNhwrD_aQ1LGdWOMLfBSdjew53q3PgLVh5uQGwXLxWPitT1r_8ZDvMBNw9PFhkpqODCVKC8jxMLZ4QHHW9US6sxBgPHa3V5ae5m3W=w1326-h628-no)
+
 ## Windows
 
 Start by installing the A-Star drivers, as
